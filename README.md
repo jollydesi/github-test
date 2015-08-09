@@ -1,6 +1,7 @@
 # Github Test
 
-## Repository to test Github in general.
+### Repository to test Github in general.
 
-### Please come back for more details later.
+Please come back for more details later.
 
+Thank you!
